@@ -11,14 +11,14 @@
 5. Click on failed request at Network tab
 6. Click "Preview" or "Response" subtab
 
-<img src="http://i.imm.io/skBN.png"/>
+<img width="200px" src="http://i.imm.io/skBN.png"/>
 
 ## THIS SHOULD CHANGE
 
 With jquery-ajax-debug you don't need any.
 Error response will be displayed in Popup at once after it occur
 
-<img src="http://i.imm.io/skDh.png"/>
+<img width="200px" src="http://i.imm.io/skDh.png"/>
 
 
 
