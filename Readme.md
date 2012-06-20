@@ -1,4 +1,6 @@
-# JQuery Ajax Debug
+# JQuery Ajax Debug)
+
+[Download](https://raw.github.com/bogdan/jquery-ajax-debug/master/jquery-ajax-debug.js)
 
 ## How many clicks do you need to investigate failed (500) ajax response ?
 
